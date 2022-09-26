@@ -1,0 +1,14 @@
+{
+"layer": "C:/Python/Informacion/divpoledomex2019a\divpoledomex2019a.shp",
+"field": "area_km2",
+"xmin": 3.182514794194626,
+"xmax": 822.1486247640589,
+"p1": 0.0012210517478394769,
+"p2": -0.003886015251976341,
+"m": ,
+"b": ,
+"function_name": "lineal_creciente",
+"gdal_raster_calculator": "(0.0012210517478394769*A)-0.003886015251976341",
+"latex": "y = 0.001221x - 0.00389",
+"python_code": "(0.0012210517478394769*x)-0.003886015251976341"
+}

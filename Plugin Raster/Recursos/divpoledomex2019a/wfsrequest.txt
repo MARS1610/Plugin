@@ -1,0 +1,1 @@
+http://ecogem.edomex.gob.mx:80/geoserver/ECOGEM/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=ECOGEM:divpoledomex2019a&maxFeatures=1000000&outputFormat=SHAPE-ZIP&SRSNAME=EPSG:32614

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Plugin_raster">
+        <file>raster.png</file>
+    </qresource>
+</RCC>
