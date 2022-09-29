@@ -1,0 +1,16 @@
+[general]
+name=Raster
+description=ejemplo raster.
+about= ejemplo raster.
+category=Web
+version=0.1.0
+qgisMinimumVersion=3.0
+author=Miguel Angel Ruiz Sanchez
+email=miguelangerlruizsanchez2@gmail.com
+tags=web,catalog,service,metadata,csw
+homepage=http://insigeo.com.mx/
+tracker=http://insigeo.com.mx/
+repository=http://insigeo.com.mx/
+experimental=False
+deprecated=False
+changelog=Version 0.3.5 (2019-12-16)
