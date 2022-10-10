@@ -1,0 +1,16 @@
+[general]
+name=Vector
+description=Plugin vector
+about=ejemplo de vector
+category=web
+version=0.1.0
+qgisMinimumVersion=3.0
+author=Miguel Angel Ruiz Sánchez
+email=miguelangelruizsanchez2@gmail.com
+tags=web,catalog,service,metadata,csw
+homepage=http://keyspatial.com
+tracker=http://keyspatial.com
+repository=http://keyspatial.com
+experimental=False
+deprecated=False
+changelog=Version 0.3.5 (2019-12-16)
